@@ -1,0 +1,23 @@
+{
+  "name": "braillemage",
+  "version": "0.0.1",
+  "description": "Display images in the terminal with nodejs, using drawille and jimp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesMR/braillemage.git"
+  },
+  "author": "JamesMR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesMR/braillemage/issues"
+  },
+  "homepage": "https://github.com/JamesMR/braillemage#readme",
+  "dependencies": {
+    "drawille": "^1.1.0",
+    "jimp": "^0.2.27"
+  }
+}
